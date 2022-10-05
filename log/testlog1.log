@@ -1,0 +1,191 @@
+2022-09-13 12:13:03,538 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application
+2022-09-13 12:13:03,694 [main] INFO Pavan_PageObjectModel_Framework - Entered the username
+2022-09-13 12:13:03,748 [main] INFO Pavan_PageObjectModel_Framework - Entered the password
+2022-09-13 12:13:09,088 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-13 12:13:09,134 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-13 12:13:09,140 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-13 17:36:50,497 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application
+2022-09-13 17:36:50,679 [main] INFO Pavan_PageObjectModel_Framework - Entered the username
+2022-09-13 17:36:50,729 [main] INFO Pavan_PageObjectModel_Framework - Entered the password
+2022-09-13 17:36:54,283 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-13 17:36:54,336 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-13 17:36:54,341 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-13 17:40:46,816 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-13 17:41:44,467 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-13 17:41:44,663 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-13 17:41:44,755 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-13 17:41:48,312 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-13 17:41:48,369 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-13 17:41:48,375 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 11:49:25,313 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 11:50:38,600 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 11:52:31,633 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 11:52:31,796 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 11:52:31,850 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 11:52:36,005 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 11:52:36,060 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 11:52:36,064 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 11:56:41,356 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 11:56:41,411 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 11:56:41,441 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 11:56:46,747 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 11:56:46,789 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 11:56:46,792 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 11:58:47,024 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 11:58:47,135 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 11:58:47,169 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 11:58:51,992 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 11:58:52,028 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 11:58:52,032 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 11:59:18,279 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 11:59:18,343 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 11:59:18,362 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 11:59:23,900 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 11:59:23,942 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 11:59:23,945 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 12:01:21,724 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 12:01:21,848 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 12:01:21,898 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 12:01:25,055 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 12:01:25,100 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 12:01:25,105 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 16:33:38,266 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 16:33:38,433 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 16:33:38,499 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 16:33:42,165 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 16:33:42,209 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 16:33:42,213 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 16:33:54,789 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 16:33:54,895 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 16:33:54,940 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 16:33:58,100 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 16:33:58,128 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 16:33:58,132 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-14 17:21:21,392 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-14 17:21:21,647 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-14 17:21:21,704 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-14 17:21:25,791 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-14 17:21:25,873 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-14 17:21:25,878 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 11:51:55,920 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 11:51:56,048 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 11:51:56,120 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 11:52:17,954 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 11:52:18,012 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 11:52:18,018 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 12:44:33,271 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 12:44:33,588 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 12:44:33,658 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 12:44:37,144 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 12:44:37,212 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 12:44:37,217 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 12:47:49,737 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 12:47:50,029 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 12:47:50,127 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 12:47:53,873 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 12:47:53,940 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 12:47:53,945 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 12:51:25,051 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 12:51:25,271 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 12:51:25,321 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 12:51:29,607 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 12:51:29,670 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 12:51:29,675 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 15:21:40,644 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:21:40,834 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:21:40,901 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:21:43,901 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:21:43,948 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:21:43,952 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 15:24:13,364 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:24:13,602 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:24:13,662 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:24:17,273 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:24:17,318 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:24:17,322 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-16 15:28:00,716 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:28:00,889 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:28:00,939 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:28:03,901 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:28:03,943 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:28:03,946 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-16 15:30:08,851 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:30:09,012 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:30:09,060 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:30:12,084 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:30:12,131 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:30:12,135 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-16 15:30:52,564 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:30:52,710 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:30:52,757 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:30:57,266 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:30:57,310 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:30:57,316 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 15:37:00,205 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:37:00,400 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:37:00,455 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:37:04,106 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:37:04,159 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:37:04,165 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-16 15:46:25,370 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:46:25,600 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:46:25,655 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:46:28,750 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:46:28,805 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:46:28,810 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-16 15:48:36,103 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:48:36,255 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:48:36,305 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:48:39,608 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:48:39,653 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:48:39,657 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-16 15:50:46,345 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 15:50:46,516 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 15:50:46,568 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 15:50:49,601 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 15:50:49,644 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 15:50:49,648 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-16 17:57:33,667 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-16 17:57:33,838 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-16 17:57:33,892 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-16 17:57:36,847 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-16 17:57:36,899 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-16 17:57:36,903 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-19 09:52:18,168 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-19 09:52:18,429 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-19 09:52:18,491 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-19 09:52:21,822 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-19 09:52:21,873 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-19 09:52:21,877 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-19 09:55:04,755 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-19 09:55:04,830 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-19 09:55:04,857 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-19 09:55:08,619 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-19 09:55:08,701 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-19 09:55:08,706 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-26 16:46:37,773 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-26 16:57:26,771 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-26 16:57:26,916 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-26 16:57:26,968 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-26 16:57:30,102 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-26 16:57:30,148 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-26 16:57:30,154 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-26 17:09:37,205 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-26 17:09:37,372 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-26 17:09:37,421 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-26 17:09:42,295 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-26 17:09:42,347 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-26 17:09:42,352 [main] INFO Pavan_PageObjectModel_Framework - Home page title is not matched, Login not successfull, Test case fialed
+2022-09-27 10:50:28,565 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-27 10:50:28,726 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-27 10:50:28,781 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-27 10:50:32,102 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-27 10:50:32,144 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-27 10:50:32,150 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed
+2022-09-29 14:53:21,040 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-29 14:53:58,537 [main] INFO Pavan_PageObjectModel_Framework - Launching URL of the application :https://demo.guru99.com/V4/
+2022-09-29 14:53:58,722 [main] INFO Pavan_PageObjectModel_Framework - Entered the username :mngr47659
+2022-09-29 14:53:58,775 [main] INFO Pavan_PageObjectModel_Framework - Entered the password :1@1
+2022-09-29 14:54:02,339 [main] INFO Pavan_PageObjectModel_Framework - Get logged in to the application
+2022-09-29 14:54:02,382 [main] INFO Pavan_PageObjectModel_Framework - Wait for a second till the Home page comes
+2022-09-29 14:54:02,388 [main] INFO Pavan_PageObjectModel_Framework - Home page title is matched, Login successfull..Test case passed

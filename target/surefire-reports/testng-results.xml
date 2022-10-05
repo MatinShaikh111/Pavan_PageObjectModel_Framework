@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="15251" started-at="2022-09-29T14:53:47 IST" finished-at="2022-09-29T14:54:02 IST">
+    <groups>
+    </groups>
+    <test name="ChromeTest" duration-ms="15251" started-at="2022-09-29T14:53:47 IST" finished-at="2022-09-29T14:54:02 IST">
+      <class name="Pavan_PageObjectModel_TestCases.TC_LoginTest_001_Test">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:Pavan_PageObjectModel_TestCases.TC_LoginTest_001_Test@51cdd8a]" name="setup" is-config="true" duration-ms="2281" started-at="2022-09-29T14:53:47 IST" finished-at="2022-09-29T14:53:49 IST">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:Pavan_PageObjectModel_TestCases.TC_LoginTest_001_Test@51cdd8a]" name="loginTest" duration-ms="12738" started-at="2022-09-29T14:53:49 IST" finished-at="2022-09-29T14:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:Pavan_PageObjectModel_TestCases.TC_LoginTest_001_Test@51cdd8a]" name="tearDown" is-config="true" duration-ms="209" started-at="2022-09-29T14:54:02 IST" finished-at="2022-09-29T14:54:02 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Pavan_PageObjectModel_TestCases.TC_LoginTest_001_Test -->
+    </test> <!-- ChromeTest -->
+  </suite> <!-- Suite -->
+</testng-results>
